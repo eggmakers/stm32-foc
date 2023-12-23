@@ -1,0 +1,12 @@
+
+software/.vscode/
+
+software/MDK-ARM/.vscode/
+
+*.d
+*.o
+software/MDK-ARM/C6T6SimpleFoc.uvguix.14024
+
+software/MDK-ARM/C6T6SimpleFoc.uvoptx
+
+software/MDK-ARM/C6T6SimpleFoc.uvprojx
